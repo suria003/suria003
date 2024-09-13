@@ -20,4 +20,4 @@
 ---
 >#### *💬 Let's Connect!*<br /><br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suriya-prakash-r-71b559238/)
 ---
->#### *🌐Project* <br /><br /> [<img width="48" height="48" src="https://img.icons8.com/color/48/portfolio.png" alt="portfolio"/>](https://www.developersuriya.xyz)
+>#### *🌐 Project* <br /><br /> [<img width="48" height="48" src="https://img.icons8.com/color/48/portfolio.png" alt="portfolio"/>](https://www.developersuriya.xyz)
