@@ -1,6 +1,6 @@
 ## **👋 Hello, I'm Suriyaprakash R!**
 
-*I'm a passionate Application and Web Developer, skilled in building impactful, cross-platform applications for Android, iOS, and the web. With expertise in modern technologies like React, JavaScript, and the full MERN stack, I excel at turning complex challenges into simple, intuitive, and beautifully designed solutions. My focus is on delivering high-performance applications that create real-world impact.*
+>I'm a passionate Application and Web Developer, skilled in building impactful, cross-platform applications for Android, iOS, and the web. With expertise in modern technologies like React, JavaScript, and the full MERN stack, I excel at turning complex challenges into simple, intuitive, and beautifully designed solutions. My focus is on delivering high-performance applications that create real-world impact.
 ---
 #### 🚀 About Me
 
