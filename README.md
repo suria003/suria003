@@ -1,16 +1,14 @@
-## Hi there 👋
+## **👋 Hello, I'm Suriyaprakash R!**
 
-<!--
-**suria003/suria003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I'm a passionate Application and Web Developer, skilled in building impactful, cross-platform applications for Android, iOS, and the web. With expertise in modern technologies like React, JavaScript, and the full MERN stack, I excel at turning complex challenges into simple, intuitive, and beautifully designed solutions. My focus is on delivering high-performance applications that create real-world impact.*
+---
+#🚀 About Me#
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I also work as a Freelancer  
+- 🌱 Continuously learning and growing in web and app development, particularly with the MERN stack  
+- 🎮 Currently developing a web-based game application  
+- 🛠️ Working on advanced SEO and building blogs  
+- 💼 Open to collaborating on exciting web and application development projects  
+- 📫 Reach out to me <br />
+![<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/suriya-prakash-r-71b559238/)![<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gMail"/>](mailto:suryadr1111@gmail.com?subject=Subject%20Here&body=Body%20text%20here
+)
