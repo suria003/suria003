@@ -54,7 +54,7 @@
 
 ## 💬 Let's Connect  
 
-<div align="center">
+<div align="start">
 
 <a href="https://www.linkedin.com/in/suriyaprakash-rd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:suryadr1111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -65,7 +65,7 @@
 
 ## 👨‍💻 Coding Profiles  
 
-<div align="center">
+<div align="start">
 
 <a href="https://www.geeksforgeeks.org/user/suryadr1111/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 <a href="https://leetcode.com/u/suriyadr1111/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
