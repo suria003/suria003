@@ -40,7 +40,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" title="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" title="Docker"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Diagrams.net_Logo.svg" height="50" title="draw.io"/>
 
 <!-- Web Design -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" title="HTML"/>
@@ -54,7 +53,7 @@
 
 ## 💬 Let's Connect  
 
-<div align="center">
+<div align="start">
 
 <a href="https://www.linkedin.com/in/suriyaprakash-rd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:suryadr1111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
